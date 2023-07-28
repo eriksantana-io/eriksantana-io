@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Erik Santana
-- 👀 I’m interested in pentesting, bash scripting
+- 👀 I’m interested in Dart, Swift, Java, and Pen-Testing
 - 📫 How to reach me at eriksantana dot com
 
 <!---
