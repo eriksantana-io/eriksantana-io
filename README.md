@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @eriksantana-io
-- 👀 I’m interested in pentesting
-- 📫 How to reach me dev at eriksantana.io
+- 👋 Hi, I’m Erik Santana
+- 👀 I’m interested in pentesting, bash scripting
+- 📫 How to reach me at eriksantana dot com
 
 <!---
 eriksantana-io/eriksantana-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
