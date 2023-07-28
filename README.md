@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Erik Santana
-- 👀 I’m interested in Dart, Swift, Java, and Pen-Testing
+- 👀 I’m interested in Dart, Swift, Java, and Bash
 - 📫 How to reach me at www dot eriksantana dot com
 
 <!---
