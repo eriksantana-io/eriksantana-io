@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Erik Santana
 - 👀 I’m interested in Dart, Swift, Java, and Bash
-- 📫 How to reach me at www dot eriksantana dot com
+- 📫 Reach me at www dot eriksantana dot com
 
 <!---
 eriksantana-io/eriksantana-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
